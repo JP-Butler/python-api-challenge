@@ -2,7 +2,8 @@
 # Module-6 Python-API-Challenge
 -------------------------------------------------
 
-![EARTH.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.livescience.com%2Fearth.html&psig=AOvVaw35yDK_rSXWInpZGFW09EUp&ust=1685077133586000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjJ-9HXj_8CFQAAAAAdAAAAABAJ)
+![EARTH.](https://cdn.mos.cms.futurecdn.net/xcLR5HMU2kxskdAy3ZVuTf-1200-80.jpg.webp)
+(Image credit: Thamrongpat Theerathammakorn / EyeEm via Getty Images)
 
 This challenge puts to use the concepts learned in the sixth week of our Data Boot Camp such as Python requests, API's, JSON traversals and some new Python libraries such as citipy and geoViews. Using this new knowledge along with the OpenWeather and Geoapify API's we put the question "What is the weather like as we approach the equator?" to the test and how can we use data to answer it.
 
@@ -10,8 +11,7 @@ This challenge puts to use the concepts learned in the sixth week of our Data Bo
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Installing](#installing)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
