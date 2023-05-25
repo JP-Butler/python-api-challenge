@@ -2,7 +2,8 @@
 # Module-6 Python-API-Challenge
 -------------------------------------------------
 
-<img width="360" alt="earth 2" src="https://github.com/JP-Butler/python-api-challenge/assets/129707393/0872d2d5-7b15-44e5-b89c-29f2ce077ade">
+![earth 3](https://github.com/JP-Butler/python-api-challenge/assets/129707393/0c60af40-8839-4dac-8a6d-dffcfd32ed23)
+
 (Image credit: Thamrongpat Theerathammakorn / EyeEm via Getty Images)
 
 This challenge puts to use the concepts learned in the sixth week of our Data Boot Camp such as Python requests, API's, JSON traversals and some new Python libraries such as citipy and geoViews. Using this new knowledge along with the OpenWeather and Geoapify API's we put the question "What is the weather like as we approach the equator?" to the test and how can we use data to answer it.
